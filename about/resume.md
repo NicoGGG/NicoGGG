@@ -1,7 +1,11 @@
 # Nico Guelfi
 
 **Software Engineer, Freelance, and Co-founder**
-(8+ years of experience)
+
+Full-stack Software Engineer based in Paris and entrepreneur with 10+ years of experience building high-velocity, scalable platforms.
+Transitioned from optimizing Big Data infrastructure to engineering high-performance gambling and trading systems.
+Currently operating as an independent market maker on prediction markets (Polymarket/Kalshi) with $100k+ daily volume, while scaling poker infrastructure for 10k+ concurrent players at Winamax.
+Specialized in event-driven architectures, low-latency pricing engines, and cloud-native automation.
 
 ---
 
@@ -27,9 +31,9 @@ Golang, Zig, NextJS, Flask, HTMX
 
 **Prediction Markets (Polymarket / Kalshi)** | _Remote_
 
-Me and my associate act as counterparty (market maker) on digital binary option crypto markets.
+I act as counterparty (market maker) on digital binary option crypto markets.
 
-- 100k$+ daily volume
+- $100k+ daily volume
 - Built a pricing engine capable of adapting to market conditions in sub 10ms
 - Machine learning engine for configuration automation depending on market conditions
 
@@ -63,7 +67,7 @@ _Tech used: Typescript, NodeJS, VueJS, REST APIs, Event Driven Architecture, AWS
 
 **[Achilio](https://github.com/maggregor)** | _Remote_
 
-Me and my associate built a SaaS solution to help companies optimize their BigQuery usage and cost.
+Co-founded a SaaS solution to help companies optimize their BigQuery usage and cost.
 
 - 50k€ in seed funding
 - Built an BigQuery optimization engine in Java (reduce cost and latency of BigQuery usage by up to 100x)
